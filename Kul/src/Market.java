@@ -14,7 +14,7 @@ public class Market {
         _ReMilk.price = 2;
         _GoodMilk.name = "Вкусное молоко 3,2%  ";
         _GoodMilk.price = 3;
-        _VIPMilk.name = "Наивкуснейшее молоко 6% ";
+        _VIPMilk.name = "Наивкуснейшее молок 6% ";
         _VIPMilk.price = 8;
 
         System.out.println("Добро пожаловать в магазин, введите имя и количество денег:-)");
